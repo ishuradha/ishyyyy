@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Isha Sharma</h1>
+<h1 align="center">Hi 👋, I am Isha Sharma</h1>
 <h2 align="center">A passionate Cloud Computing Enthusiast from India 📍</h2>
 <h3 align="center">Self-taught Web Developer👨‍💻</h3>
 
